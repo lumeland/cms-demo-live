@@ -1,5 +1,5 @@
 ---
-title: This is a new post
+title: This is a new draft post
 draft: false
 tags: []
 comments: {}
