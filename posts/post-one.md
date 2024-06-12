@@ -1,7 +1,8 @@
 ---
 title: This is the first post
 draft: false
-tags: []
+tags:
+  - ssss
 comments: {}
 date: '2024-06-01'
 ---
