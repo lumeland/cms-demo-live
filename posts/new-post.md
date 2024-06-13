@@ -1,5 +1,5 @@
 ---
-title: This is a new draft post
+title: This is a new draft post editado
 draft: false
 tags: []
 comments: {}
