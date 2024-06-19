@@ -3,6 +3,7 @@ title: This is the first post
 draft: false
 tags:
   - ssss
+  - markdown
 comments: {}
 date: '2024-06-19'
 ---
