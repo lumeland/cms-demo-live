@@ -4,6 +4,8 @@ home:
 menu_links:
   - title: wwqeqwe
     url: '3333'
+  - title: Sub 1
+    url: /sub1
 metas:
   site: Blog name
   description: General description of the blog
