@@ -2,10 +2,11 @@ lang: en
 home:
   welcome: 'Hello, I am a person that writes stuff.'
 menu_links:
-  - title: wwqeqwe
-    url: '3333'
   - title: Sub 1
     url: /sub1
+  - title: wwqeqwe
+    url: '3333'
+  - {}
 metas:
   site: Blog name
   description: General description of the blog
