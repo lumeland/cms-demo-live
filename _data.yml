@@ -1,4 +1,4 @@
-lang: en
+lang: de
 home:
   welcome: 'Hello, I am a person that writes stuff.'
 menu_links:
@@ -14,4 +14,4 @@ metas:
   image: =image
   twitter: '@username'
   lang: en
-  generator: false
+  generator: true
