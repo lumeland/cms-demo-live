@@ -1,9 +1,11 @@
 ---
 layout: layouts/page.vto
 title: Hello World
-url: /hi/
 menu:
   visible: true
-  order: 8
+  order: 0
 ---
-This is a test
+# Hello
+## Hallo
+### Salve
+**Konnichiwa**
