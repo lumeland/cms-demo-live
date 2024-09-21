@@ -2,7 +2,7 @@
 layout: layouts/page.vto
 title: About
 menu:
-  visible: false
-  order: 0
+  visible: true
+  order: 5
 ---
 
