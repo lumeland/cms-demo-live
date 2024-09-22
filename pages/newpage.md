@@ -6,4 +6,4 @@ menu:
   visible: true
   order: 8
 ---
-This is a test
+*This* is a **test**
