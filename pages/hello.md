@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.vto
-title: Hello World
+title: Hello World!
 menu:
   visible: true
   order: 0
@@ -9,3 +9,4 @@ menu:
 ## Hallo
 ### Salve
 **Konnichiwa**
+__Ciao__
