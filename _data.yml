@@ -8,7 +8,7 @@ menu_links:
     url: '3333'
   - {}
 metas:
-  site: Blog nameoij
+  site: Blog name
   description: General description of the blog
   title: =title
   image: =image
