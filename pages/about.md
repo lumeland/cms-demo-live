@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.vto
-title: About
+title: About us
 menu:
   visible: true
-  order: 5
+  order: 1
 ---
 Testing fast
 
@@ -14,5 +14,3 @@ Testing fast
 ![Image](/img_0010.jpeg)
 
 ![Image](/uploads/img_0010.jpeg)
-
-

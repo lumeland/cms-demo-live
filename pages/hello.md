@@ -2,7 +2,7 @@
 layout: layouts/page.vto
 title: Hello World!
 menu:
-  visible: true
+  visible: false
   order: 0
 ---
 # Hello
