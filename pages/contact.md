@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.vto
-title: Contact us
+title: Contact us test
 menu:
   visible: true
   order: 2

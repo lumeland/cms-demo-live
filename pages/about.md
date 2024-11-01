@@ -11,6 +11,8 @@ Testing fast
 
 ## sub
 
-![Image](/img_0010.jpeg)
+
+
+![Image](/uploads/my-dino(2).png)
 
 ![Image](/uploads/img_0010.jpeg)

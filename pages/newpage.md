@@ -3,7 +3,7 @@ layout: layouts/page.vto
 title: Hello World
 url: /hi/
 menu:
-  visible: false
+  visible: true
   order: 8
 ---
 *This* is a **test**
