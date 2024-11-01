@@ -1,5 +1,5 @@
 ---
-title: epic title
+title: epic title!
 url: /vokolovic/
 date: '0004-04-04'
 draft: false
