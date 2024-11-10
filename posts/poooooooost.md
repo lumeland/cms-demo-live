@@ -14,3 +14,5 @@ sfdgsdgsfg
 [link text](rdhj)
 
 ![Image](/uploads/man-working-laptop.svg)
+
+![Image](/uploads/img_0010.jpeg)
