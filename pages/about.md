@@ -13,6 +13,6 @@ Testing fast
 
 test
 
-![Image](/uploads/my-dino(2).png)
+![Image](/uploads/my-dino.png)
 
 ![Image](/uploads/img_0010.jpeg)
