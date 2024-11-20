@@ -7,4 +7,4 @@ menu:
 ---
 # Contact us
 
-lorem Ipsum is here
+lorem Ipsum is here, and here too
