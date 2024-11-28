@@ -1,15 +1,15 @@
 ---
 title: epic title!
 url: /vokolovic/
-date: '0004-04-04'
+date: '2024-04-04'
 draft: false
 tags:
-  - pes
-  - wow
+  - amazing
+  - tag
 comments:
   src: 'https://cms-demo.lume.land/archive/'
 ---
-sfdgsdgsfg wallawalla
+Hello world world world world
 
 [link text](rdhj)
 
