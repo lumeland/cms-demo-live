@@ -4,6 +4,8 @@ home:
 menu_links:
   - title: Privcay
     url: '#'
+  - title: hei
+    url: /hello
 metas:
   site: Blog name
   description: General description of the blog
