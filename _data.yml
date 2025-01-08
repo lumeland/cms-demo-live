@@ -2,7 +2,7 @@ lang: en
 home:
   welcome: 'Hello, I am a person that writes stuff.'
 menu_links:
-  - title: Privcay
+  - title: Privacy
     url: '#'
 metas:
   site: Blog name
