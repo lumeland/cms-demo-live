@@ -1,4 +1,4 @@
-app = "lume_cms"
+app = "lume-cms"
 primary_region = "mad"
 
 [build]
