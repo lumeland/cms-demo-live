@@ -11,7 +11,4 @@ COPY . /app
 # Deno cache directory
 ENV DENO_DIR /_deno
 
-# Force cache
-RUN deno task build && deno cache https://deno.land/x/lume_cms_adapter@v0.1.3/mod.ts
-
 CMD [ "task", "cms:prod" ]
