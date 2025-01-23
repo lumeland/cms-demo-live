@@ -11,4 +11,4 @@ ENV DENO_DIR /_deno
 
 RUN apt update && apt install -y git
 
-CMD [ "serve", "-A", "https://deno.land/x/lume_cms_adapter@v0.1.3/mod.ts", "--", "--location", "http://localhost:8000" ]
+CMD [ "task", "cms:prod" ]
