@@ -4,9 +4,6 @@ primary_region = "mad"
 [build]
   dockerfile = "Dockerfile"
 
-[env]
-  PORT = "8080"
-
 [processes]
   app = "run -A ./"
 
