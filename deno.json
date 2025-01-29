@@ -1,9 +1,10 @@
 {
   "imports": {
-    "lume/": "https://deno.land/x/lume@v2.5.0/",
-    "blog/": "https://deno.land/x/lume_theme_simple_blog@v0.15.3/",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.9.2/"
+    "lume/": "https://deno.land/x/lume@v2.5.1/",
+    "blog/": "https://deno.land/x/lume_theme_simple_blog@v0.15.10/",
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.9.2/"
   },
+  "lock": false,
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
     "build": "deno task lume",
