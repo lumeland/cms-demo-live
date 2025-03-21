@@ -11,4 +11,7 @@ comments: {}
 Hello, it's me.
 How are you doing?
 
-This is cool.
+This is cool. Really.
+
+
+![Image](/uploads/img_0010.jpeg)
