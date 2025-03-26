@@ -14,4 +14,3 @@ How are you doing?
 This is cool. Really.
 
 
-![Image](/uploads/img_0010.jpeg)
