@@ -8,3 +8,6 @@ menu:
 ---
 *This* is a **test**
 Demo on line
+
+![Image](/uploads/img_1467.jpeg)
+
