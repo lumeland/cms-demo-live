@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.vto
-title: About us
+title: About us test
 menu:
   visible: true
   order: 1
