@@ -1,16 +1,18 @@
 lang: en
 home:
-  welcome: "Hello, I am a person that writes stuff."
+  welcome: 'Hello, I am a person that writes stuff.'
 menu_links:
   - title: Privcay
     url: '#'
   - title: hei
     url: /hello
+  - title: Example
+    url: 'http://example.com'
 metas:
   site: Blog name
   description: General description of the blog
   title: =title
   image: =image
-  twitter: "@username"
+  twitter: '@username'
   lang: en
   generator: true
