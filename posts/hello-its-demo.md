@@ -7,7 +7,7 @@ tags:
   - amazing
   - tag
 comments: {}
-author: hubert weeeeeeee
+author: hubert
 ---
 Hello, it's me testing.
 
@@ -15,7 +15,8 @@ How are you doing?
 
 This is cool. Really.
 
-
 Some more content
 
 More
+
+More More
