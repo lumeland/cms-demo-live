@@ -6,6 +6,7 @@ draft: false
 tags:
   - amazing
   - tag
+  - test
 comments: {}
 author: hubert
 ---
