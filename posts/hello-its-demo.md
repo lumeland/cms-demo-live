@@ -1,5 +1,5 @@
 ---
-title: "Hello Demo r\U0001F680"
+title: "Hello Demo \U0001F680"
 url: /hello-its-demo/
 date: '2024-12-06'
 draft: false
@@ -10,7 +10,7 @@ tags:
 comments: {}
 author: hubert
 ---
-Hello, it's me testing.
+**Hello, it's me testing.**
 
 How are you doing?
 
