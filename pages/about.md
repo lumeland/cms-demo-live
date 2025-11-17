@@ -20,3 +20,6 @@ t***e***st
 ![Image](/uploads/img_0010.jpeg)
 
 ![Image](/uploads/snowy-owl-gould.jpg)
+
+
+![Image](/uploads/my-dino(2).png)

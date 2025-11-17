@@ -1,0 +1,8 @@
+---
+layout: layouts/page.vto
+title: Something different
+menu:
+  visible: true
+  order: 2
+---
+Something different
