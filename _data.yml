@@ -15,4 +15,4 @@ metas:
   image: =image
   twitter: '@username'
   lang: en
-  generator: true
+  generator: false
