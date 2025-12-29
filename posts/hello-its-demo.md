@@ -1,7 +1,7 @@
 ---
 title: "Hello Demo \U0001F680"
 url: /hello-its-demo/
-date: '2024-12-06'
+date: 2024-12-06
 draft: false
 tags:
   - amazing
@@ -22,4 +22,4 @@ More
 
 More More
 
-More More
+**More More**
